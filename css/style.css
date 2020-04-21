@@ -1,0 +1,166 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+sub{
+	color: darkgreen;
+}
+a{
+	text-decoration: none;
+	color: black;
+	padding-left: 5px;
+}
+.container1{
+	width: 100%;
+	height: 100%;
+	background: #F5F5DC;
+}
+.container{
+	width: 1140px;
+	height: 100%;
+	margin: 0 auto;
+}
+.header{
+	width: 1140px;
+	height: 100px;
+	display: flex;
+}
+.logo{
+	width: 200px;
+	height: 60px;
+	margin: 20px;
+	display: flex;
+}
+.zagolovok{
+	padding: 5px;
+	color: orange;
+}
+.logo1{
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+}
+.img_logo{
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+}
+.text_logo{
+	width: 130px;
+	height: 50px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.navigation{
+	width: 400px;
+	height: 60px;
+	display: flex;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.navigation_block1, .navigation_block2, .navigation_block3, .navigation_block4{
+	width: 100px;
+	height: 60px;
+	background: lightgreen;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 1px 1px 2px 2px red, 
+                1px 1px 10px 3px green,
+                1px 1px 10px 4px orange;
+}
+.navigation_block2, .navigation_block3, .navigation_block4{
+	margin-left: 10px;
+}
+.main{
+	width: 1140px;
+	height: 300px;
+	display: flex;
+	margin-top: 30px;
+}
+.block_text{
+	width: 570px;
+	height: 300px;
+}
+.block_img{
+	width: 310px;
+	height: 300px;
+	margin: 0 auto;
+	border-radius: 100%;
+}
+.future{
+	width: 310px;
+	height: 300px;
+	border-radius: 100%;
+}
+.content{
+	width: 1140px;
+	height: 600px;
+	display: flex;
+	margin-top: 50px;
+	justify-content: space-between;
+}
+.big_block1{
+	width: 320px;
+	height: 600px;
+}
+.big_block2{
+	width: 320px;
+	height: 600px;
+}
+.big_block3{
+	width: 320px;
+	height: 600px;
+}
+.img_block1, .img_block2, .img_block3{
+	width: 320px;
+	height: 150px;
+	border: 1px solid gray;
+}
+.img_block2, .img_block3{
+	margin-top: 75px;
+}
+.text_block1, .text_block2, .text_block3{
+	width: 320px;
+	height: 150px;
+	padding: 5px;
+}
+.text_block2, .text_block3{
+	margin-top: 75px;
+}
+.text_img1, .text_img2, .text_img3{
+	width: 320px;
+	height: 150px;
+	display: flex;
+}
+.text_img2, .text_img3{
+	margin-top: 75px;
+}
+.zagal_block1{
+	width: 70px;
+	height: 150px;
+}
+.mini_block1{
+	width: 70px;
+	height: 70px;
+	margin-top: 10px;
+}
+.zagal_text{
+	width: 570px;
+	height: 150px;
+	padding: 5px;
+	margin-top: 75px;
+}
+.zagal_text1{
+	width: 250px;
+	height: 150px;
+	padding: 5px;
+}
+.photo{
+	width: 320px;
+	height: 150px;
+}
+.photka{
+	width: 60px;
+	height: 60px;
+}
